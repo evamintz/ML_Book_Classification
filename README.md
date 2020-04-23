@@ -5,4 +5,4 @@ This project will focus on using unsupervised machine learning methods to classi
 
 [Presentation Slides](https://github.com/evamintz/ML_Book_Classification/blob/master/Book%20Classification%20Slides.pdf)
 
-dont read me
+[Written Report](https://github.com/evamintz/ML_Book_Classification/blob/master/Book%20Classification%20Full%20Report.pdf)
